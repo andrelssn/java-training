@@ -1,0 +1,13 @@
+Tipos primitivos
+
+boolean
+int
+decimais = numerico com casas decimais
+caracteres = letras, um digito por vez
+
+----------------------
+
+Tipos de referencia
+
+textos(string) = palavras completas
+classes = usado para definir novos tipos
