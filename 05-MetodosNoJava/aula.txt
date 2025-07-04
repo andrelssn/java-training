@@ -1,0 +1,6 @@
+Métodos
+
+- Main (função é ser ponto de entrada)
+- Novos métodos para diferentes operações
+- Ex: somar, subtrair, multiplicar, dividir (um pra cada)
+- Organização do código em módulos = Legibilidade e reuso
