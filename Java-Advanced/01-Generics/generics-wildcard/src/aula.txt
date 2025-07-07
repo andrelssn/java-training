@@ -1,0 +1,1 @@
+wildcards permite que representemos um tipo desconhecido, por conta desta funcionalidade podemos definir que podemos receber um tipo desconhecido
