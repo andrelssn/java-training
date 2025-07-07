@@ -1,0 +1,19 @@
+Classes representam conceitos do mundo real
+
+Classes
+ - Estado e comportamento;
+ - Atributos;
+ - Métodos;
+
+Classes permitem criar novos tipos de dados no Java
+
+
+Construtores são usados para construir objetos a partir de classes.
+
+Classe vs Objeto
+ - Classe: planta
+ - Objeto: Casa construída a partir da planta
+
+Construtores
+ - Várias formas de construir um objeto;
+ - Construtor padrão x Contrutor canônico;
