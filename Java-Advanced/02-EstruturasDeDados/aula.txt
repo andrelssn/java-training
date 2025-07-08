@@ -1,0 +1,9 @@
+Collections são estruturas utilizadas para armazenar uma coleção de valores.
+
+Critérios
+ - Ordenação;
+ - Registros duplicados;
+ - Rapidez nas operações;
+ - Memória;
+
+Iterable -> Collection -> Set, List, Queue
